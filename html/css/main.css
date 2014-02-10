@@ -82,7 +82,6 @@ aside.sidebar-nav ol ol ol {
   padding-left: 20px;
 }
 
-
 aside.sidebar-nav ol ol ol a { color: hsla(  35, 84.5%,  54.3%, 1 ); }
 aside.sidebar-nav ol ol ol a:hover { color: hsla(  35, 84.5%,  44.0%, 1 ); }
 
@@ -93,6 +92,9 @@ aside.sidebar-nav .current-page { color: hsla( 2, 64.7%, 50.0%, 1 ); }
   color: hsla(0, 0.0%, 60.0%, 1);
 }
 
+aside.sidebar-nav a:visited { color: hsla( 240, 15.0%, 30.0%, 1 ); }
+aside.sidebar-nav a:visited:hover,
+aside.sidebar-nav a:visited:focus { color: hsla( 208, 56.3%, 37.6%, 1 ); }
 
 /* ========== Headings ========== */
 
